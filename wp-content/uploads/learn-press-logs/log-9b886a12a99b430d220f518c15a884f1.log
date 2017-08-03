@@ -1,0 +1,16 @@
+-----08-02-2017 @ 15:06:42 ------
+create_table
+-----08-02-2017 @ 15:06:43 ------
+
+			SELECT user_item_id, item_id
+			FROM esl_learnpress_user_items
+			WHERE ref_id = 0
+		
+-----08-02-2017 @ 15:06:47 ------
+create_table
+-----08-02-2017 @ 15:06:47 ------
+
+			SELECT user_item_id, item_id
+			FROM esl_learnpress_user_items
+			WHERE ref_id = 0
+		

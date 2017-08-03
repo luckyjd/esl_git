@@ -1,0 +1,373 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: LearnPress Instructor Commission\n"
+"POT-Creation-Date: 2016-08-16 11:48+0700\n"
+"PO-Revision-Date: 2016-08-16 11:47+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: learnpress-commission.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/classes/lp-commission-withdrawal-method-paypal.php:13
+msgid "Paypal Withdrawal"
+msgstr ""
+
+#: inc/classes/lp-commission-withdrawal-method-paypal.php:15
+msgid "Enter your password"
+msgstr ""
+
+#: inc/classes/lp-commission-withdrawal-method-paypal.php:17
+msgid "Paypal email account"
+msgstr ""
+
+#: inc/classes/lp-commission-withdrawal-method-paypal.php:19
+#: inc/core/request-withdrawal.php:123
+msgid "Amount"
+msgstr ""
+
+#: inc/classes/lp-commission-withdrawal-method-paypal.php:23
+msgid "Request all"
+msgstr ""
+
+#: inc/classes/lp-commission-withdrawal-method-paypal.php:26
+msgid "Submit request"
+msgstr ""
+
+#: inc/classes/setting-commission.php:18 learnpress-commission.php:90
+msgid "Commissions"
+msgstr ""
+
+#: inc/classes/setting-commission.php:42
+msgid "Settings"
+msgstr ""
+
+#: inc/classes/setting-commission.php:46
+msgid "Managing"
+msgstr ""
+
+#: inc/classes/setting-commission.php:50
+msgid "Withdrawal Paypal"
+msgstr ""
+
+#: inc/classes/setting-commission.php:76 inc/classes/setting-commission.php:77
+msgid "Enable commission feature"
+msgstr ""
+
+#: inc/classes/setting-commission.php:84 inc/classes/setting-commission.php:85
+msgid "Commission percent"
+msgstr ""
+
+#: inc/classes/setting-commission.php:96 inc/classes/setting-commission.php:97
+#, php-format
+msgid "Min (%s)"
+msgstr ""
+
+#: inc/classes/setting-commission.php:107
+msgid "Support offline payment"
+msgstr ""
+
+#: inc/classes/setting-commission.php:108
+msgid "Enable/Disable offline payment"
+msgstr ""
+
+#: inc/classes/setting-commission.php:122
+msgid "Enable"
+msgstr ""
+
+#: inc/classes/setting-commission.php:123
+msgid "Enable/Disable withdrawal via paypal"
+msgstr ""
+
+#: inc/classes/setting-commission.php:129
+msgid "Sandbox Mode"
+msgstr ""
+
+#: inc/classes/setting-commission.php:130
+msgid "Enable/Disable Sandbox Mode"
+msgstr ""
+
+#: inc/classes/setting-commission.php:136
+#: inc/classes/setting-commission.php:137
+msgid "Client ID"
+msgstr ""
+
+#: inc/classes/setting-commission.php:143
+msgid "Secret"
+msgstr ""
+
+#: inc/classes/setting-commission.php:144
+msgid "Secret Key"
+msgstr ""
+
+#: inc/core/class-lp-withdrawal.php:136 inc/core/request-withdrawal.php:158
+msgid "Pending"
+msgstr ""
+
+#: inc/core/class-lp-withdrawal.php:137 inc/core/request-withdrawal.php:160
+msgid "Complete"
+msgstr ""
+
+#: inc/core/class-lp-withdrawal.php:138 inc/core/request-withdrawal.php:154
+#: inc/core/request-withdrawal.php:159
+msgid "Reject"
+msgstr ""
+
+#: inc/core/lp-payment.php:69
+msgid "You have a payment"
+msgstr ""
+
+#: inc/core/lp-payment.php:70
+msgid "Payment for withdrawal"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:89
+msgid "Details"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:120
+msgid "ID"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:121
+msgid "Time request"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:122
+msgid "Time resolve"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:124
+msgid "Method"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:125
+msgid "Status"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:140
+msgid "Username"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:142
+msgid "Password"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:150
+msgid "Pay On"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:152
+msgid "Pay Off"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:162
+msgid "Apply"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:169
+msgctxt "Post Type General Name"
+msgid "Withdrawals"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:170
+msgctxt "Post Type Singular Name"
+msgid "Withdrawal"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:171 inc/core/request-withdrawal.php:207
+#: templates/withdrawals.php:60
+msgid "Withdrawal"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:172
+msgid "Post Type"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:173
+msgid "Item Archives"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:174
+msgid "Parent Item:"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:175 inc/core/request-withdrawal.php:271
+msgid "Withdrawals"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:176
+msgid "Add New Item"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:177
+msgid "Add New"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:178
+msgid "New Item"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:179
+msgid "Edit Item"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:180
+msgid "Update Item"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:181
+msgid "View Item"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:182
+msgid "Search Item"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:183
+msgid "Not found"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:184
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:185
+msgid "Featured Image"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:186
+msgid "Set featured image"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:187
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:188
+msgid "Use as featured image"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:189
+msgid "Insert into item"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:190
+msgid "Uploaded to this item"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:191
+msgid "Items list"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:192
+msgid "Items list navigation"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:193
+msgid "Filter items list"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:208
+msgid "Withdraw"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:317
+msgid "Verify nonce is wrong!"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:328
+msgid "Verify password is wrong!"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:337
+msgid "Please enter a paypal email account!"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:347 inc/core/request-withdrawal.php:416
+msgid "Something went wrong!"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:359
+msgid "You do not have enough money to withdraw!"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:368
+msgid "The amount can not be zero!"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:378
+msgid "The amount is too small!"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:388
+msgid "Please choose a payment method!"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:403
+msgid "Create the withdrawal request failed!"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:424
+msgid "Withdrawals request is successful!"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:520
+msgid "Offline"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:536
+msgid "Paypal"
+msgstr ""
+
+#: inc/core/request-withdrawal.php:561
+msgid "Publisher"
+msgstr ""
+
+#: inc/profile.php:16
+msgid "Course Commission"
+msgstr ""
+
+#. Description of the plugin/theme
+#: inc/views/commission.php:17
+msgid "Commission add-on for LearnPress"
+msgstr ""
+
+#: inc/views/withdrawal_paypal.php:17
+msgid "Paypal Withdrawal Method Settings"
+msgstr ""
+
+#: learnpress-commission.php:140
+msgid "Setting commission"
+msgstr ""
+
+#: templates/withdrawals.php:28
+msgid "Withdrawal History"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "LearnPress Instructor Commission"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://thimpress.com/learnpress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThimPress"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://thimpress.com"
+msgstr ""

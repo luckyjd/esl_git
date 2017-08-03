@@ -1,0 +1,28 @@
+#id {
+	width: 100px;
+}
+
+#value {
+	width: 200px;
+}
+
+#active {
+	width: 80px;
+}
+
+.tp_notification {
+	display: block;
+	position: relative;
+	margin-left: 0;
+	margin-right: 0;
+	padding-right: 40px;
+}
+
+/* Edit post */
+#post-body-content {
+	display: none;
+}
+
+.paid {
+	margin-top: 30px;
+}
